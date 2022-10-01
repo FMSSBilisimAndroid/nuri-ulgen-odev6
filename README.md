@@ -21,3 +21,12 @@
 ![image](https://user-images.githubusercontent.com/45700377/193425705-396e7a29-6be6-4363-993d-f677b65ebd99.png)
 
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 3.ve 4. hafta ödevlerini yükledim ama her hafta listede eksik görünuyor ödev linklerini aşağıya ekledim.
+ 
+ 
+ 3. Ödev
+ https://github.com/nuriulgen/Week3
+ 
+4. Ödev
+https://github.com/nuriulgen/Mars-App
